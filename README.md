@@ -1,9 +1,9 @@
 # Interior Mood Search
 
-원룸 인테리어 이미지를 CLIP으로 분석해 **무드(mood) 라이브러리**를 만들고, **자연어 프롬프트**로 비슷한 무드·레퍼런스 이미지를 추천하는 프로젝트입니다.
+원룸 인테리어 이미지를 CLIP으로 분석해 **무드(mood) 라이브러리**를 만들고, **자연어 프롬프트**로 비슷한 무드·레퍼런스 이미지를 추천하는 프로젝트
 
 ```
-프롬프트 → 무드 1개 선택 → gallery 이미지 추천 → (예정) 프롬프트 재구성 → (예정) 이미지 생성
+프롬프트 → 무드 1개 선택 → gallery 이미지 추천
          ✅ 완료              ✅ 완료
 ```
 
@@ -19,8 +19,7 @@ python -m venv .venv
 pip install -r requirements-ml.txt
 ```
 
-- Python 3.10+ 권장
-- GPU(CUDA) 있으면 CLIP 임베딩·검색이 더 빠름
+- Python 3.10+ 
 - 노트북 사용 시 커널을 **`.venv` Python**으로 선택
 
 ---
@@ -44,14 +43,14 @@ pip install -r requirements-ml.txt
 
 ### 1) 이미지 준비
 
-`images/final/`에 원룸 인테리어 이미지를 넣습니다.
+`images/final/`에 원룸 인테리어 이미지를 보관
 
 - 크롤러(선택): `pinterest_crawl.ipynb`, `pinterest_board_crawl.ipynb`
 - 수집 후 `images/final/`로 통합해 사용
 
 ### 2) 무드 라이브러리 만들기
 
-**방법 A — 노트북 (권장, 단계별 확인)**
+방법 A — 노트북 (권장, 단계별 확인)
 
 | 순서 | 노트북 | 내용 |
 |------|--------|------|
@@ -113,11 +112,9 @@ python search_mood.py "세련되고 고급스러운 방" --top-k 5 --plot
 3. **2차** — 1위 무드 gallery 전체에서 프롬프트와 가장 비슷한 이미지 `top_k`장 추천
 4. score = 코사인 유사도 (-1~1, **1에 가까울수록 유사**, 텍스트-이미지는 0.2~0.3대도 정상)
 
-무드 이름(`warm_cozy` 등)을 알 필요 없이 **자유 문장**으로 검색합니다.
-
 ---
 
-## 현재 무드 (8개)
+## 현재 생성된 무드 (8개)
 
 | mood_id | 이름 |
 |---------|------|
@@ -129,14 +126,6 @@ python search_mood.py "세련되고 고급스러운 방" --top-k 5 --plot
 | `vintage_retro` | 빈티지 레트로 |
 | `warm_cozy` | 따뜻한 코지 원룸 |
 | `luxury_modern` | 럭셔리 모던 |
-
----
-
-## Git / PR 주의
-
-노트북에 **실행 결과(figure output)** 가 저장되면 `.ipynb`가 1MB+ 커져 PR diff가 깨질 수 있습니다.
-
-커밋 전: Jupyter **Clear All Outputs** → Save
 
 ---
 
