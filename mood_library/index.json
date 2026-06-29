@@ -1,0 +1,215 @@
+{
+  "version": "1.0",
+  "total_images": 361,
+  "mood_count": 8,
+  "moods": [
+    {
+      "id": "cute_pastel_c03",
+      "mood_id": "cute_pastel",
+      "cluster_id": 3,
+      "name_ko": "파스텔 귀여운",
+      "name_en": "cute pastel room decor",
+      "description": "파스텔 귀여운 무드의 원룸 인테리어 레퍼런스",
+      "keywords": [
+        "cute",
+        "pastel"
+      ],
+      "color_palette": [
+        "#d0c9bf",
+        "#6c5421",
+        "#917f60",
+        "#bbad9d",
+        "#dfdede"
+      ],
+      "image_count": 65,
+      "cover": "cute_pastel_c03/cover.jpg",
+      "representatives": [
+        "17a6a29a8b91.jpg",
+        "2fd1cd319cc7.jpg",
+        "502d9671967f.jpg"
+      ]
+    },
+    {
+      "id": "natural_wood_c00",
+      "mood_id": "natural_wood",
+      "cluster_id": 0,
+      "name_ko": "내추럴 우드",
+      "name_en": "natural wood tone small room",
+      "description": "내추럴 우드 무드의 원룸 인테리어 레퍼런스",
+      "keywords": [
+        "natural",
+        "wood"
+      ],
+      "color_palette": [
+        "#c8a378",
+        "#703b23",
+        "#e8cfaa",
+        "#aa7b53",
+        "#1b0a07"
+      ],
+      "image_count": 62,
+      "cover": "natural_wood_c00/cover.jpg",
+      "representatives": [
+        "08f31336961b.jpg",
+        "76e1b2b002c0.jpg",
+        "8cb2d68d08f5.jpg"
+      ]
+    },
+    {
+      "id": "vintage_retro_c05",
+      "mood_id": "vintage_retro",
+      "cluster_id": 5,
+      "name_ko": "빈티지 레트로",
+      "name_en": "vintage retro small room",
+      "description": "빈티지 레트로 무드의 원룸 인테리어 레퍼런스",
+      "keywords": [
+        "vintage",
+        "retro"
+      ],
+      "color_palette": [
+        "#d5dce0",
+        "#635b52",
+        "#bec1c0",
+        "#1f2424",
+        "#8c8d88"
+      ],
+      "image_count": 55,
+      "cover": "vintage_retro_c05/cover.jpg",
+      "representatives": [
+        "534c8b6a08ee.JPG",
+        "a290fc9e9539.jpeg",
+        "b2a13f1b4fc9.jpeg"
+      ]
+    },
+    {
+      "id": "minimal_white_c01",
+      "mood_id": "minimal_white",
+      "cluster_id": 1,
+      "name_ko": "미니멀 화이트",
+      "name_en": "minimal white scandinavian room",
+      "description": "미니멀 화이트 무드의 원룸 인테리어 레퍼런스",
+      "keywords": [
+        "minimal",
+        "white"
+      ],
+      "color_palette": [
+        "#7b7e7d",
+        "#afb1ae",
+        "#1a1a15",
+        "#e5e9e5",
+        "#575855"
+      ],
+      "image_count": 50,
+      "cover": "minimal_white_c01/cover.jpg",
+      "representatives": [
+        "23c8774a2c63.jpg",
+        "926bd8913cc5.jpg",
+        "aac79c34783c.jpg"
+      ]
+    },
+    {
+      "id": "monochrome_minimal_c04",
+      "mood_id": "monochrome_minimal",
+      "cluster_id": 4,
+      "name_ko": "모노톤 미니멀",
+      "name_en": "monochrome minimalist interior",
+      "description": "모노톤 미니멀 무드의 원룸 인테리어 레퍼런스",
+      "keywords": [
+        "monochrome",
+        "minimal"
+      ],
+      "color_palette": [
+        "#c4a47d",
+        "#1a212f",
+        "#fbf7ea",
+        "#e5cda9",
+        "#83694e"
+      ],
+      "image_count": 48,
+      "cover": "monochrome_minimal_c04/cover.jpg",
+      "representatives": [
+        "3f9ae27cab74.jpg",
+        "4be16c12685e.jpg",
+        "59991104ff98.jpg"
+      ]
+    },
+    {
+      "id": "warm_cozy_c06",
+      "mood_id": "warm_cozy",
+      "cluster_id": 6,
+      "name_ko": "따뜻한 코지 원룸",
+      "name_en": "warm cozy studio apartment interior",
+      "description": "따뜻한 코지 원룸 무드의 원룸 인테리어 레퍼런스",
+      "keywords": [
+        "warm",
+        "cozy"
+      ],
+      "color_palette": [
+        "#292c35",
+        "#eadfc8",
+        "#a79479",
+        "#d2c1a5",
+        "#645e53"
+      ],
+      "image_count": 42,
+      "cover": "warm_cozy_c06/cover.jpg",
+      "representatives": [
+        "54d70e7cc9f3.jpg",
+        "587567ead34d.jpg",
+        "ec8caf600a4a.jpg"
+      ]
+    },
+    {
+      "id": "bright_airy_c02",
+      "mood_id": "bright_airy",
+      "cluster_id": 2,
+      "name_ko": "밝은 에어리",
+      "name_en": "bright airy open studio",
+      "description": "밝은 에어리 무드의 원룸 인테리어 레퍼런스",
+      "keywords": [
+        "bright",
+        "airy"
+      ],
+      "color_palette": [
+        "#595244",
+        "#e5ecf3",
+        "#878177",
+        "#29251c",
+        "#b9bdc0"
+      ],
+      "image_count": 22,
+      "cover": "bright_airy_c02/cover.jpg",
+      "representatives": [
+        "3056d81ac50f.jpg",
+        "3ae427e3ffb9.jpeg",
+        "df7a40fb3ec3.jpeg"
+      ]
+    },
+    {
+      "id": "luxury_modern_c07",
+      "mood_id": "luxury_modern",
+      "cluster_id": 7,
+      "name_ko": "럭셔리 모던",
+      "name_en": "luxury modern studio apartment",
+      "description": "럭셔리 모던 무드의 원룸 인테리어 레퍼런스",
+      "keywords": [
+        "luxury",
+        "modern"
+      ],
+      "color_palette": [
+        "#494f4a",
+        "#84a0a9",
+        "#657371",
+        "#292b28",
+        "#b5d8e3"
+      ],
+      "image_count": 17,
+      "cover": "luxury_modern_c07/cover.jpg",
+      "representatives": [
+        "30e4c16c4917.jpg",
+        "978cfccd8b25.jpg",
+        "9d8248c2dc24.jpg"
+      ]
+    }
+  ]
+}

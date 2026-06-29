@@ -1,0 +1,210 @@
+{
+  "6": {
+    "mood_en": "warm cozy studio apartment interior",
+    "mood_ko": "따뜻한 코지 원룸",
+    "mood_id": "warm_cozy",
+    "confidence": 0.328304648399353,
+    "top3": [
+      {
+        "label": "warm cozy studio apartment interior",
+        "score": 0.328304648399353
+      },
+      {
+        "label": "vintage retro small room",
+        "score": 0.31367823481559753
+      },
+      {
+        "label": "minimal white scandinavian room",
+        "score": 0.3054950535297394
+      }
+    ],
+    "representatives": [
+      "587567ead34d.jpg",
+      "ec8caf600a4a.jpg",
+      "54d70e7cc9f3.jpg"
+    ],
+    "image_count": 42
+  },
+  "7": {
+    "mood_en": "luxury modern studio apartment",
+    "mood_ko": "럭셔리 모던",
+    "mood_id": "luxury_modern",
+    "confidence": 0.31673628091812134,
+    "top3": [
+      {
+        "label": "warm cozy studio apartment interior",
+        "score": 0.33131280541419983
+      },
+      {
+        "label": "luxury modern studio apartment",
+        "score": 0.31673628091812134
+      },
+      {
+        "label": "monochrome minimalist interior",
+        "score": 0.2934983968734741
+      }
+    ],
+    "representatives": [
+      "30e4c16c4917.jpg",
+      "9d8248c2dc24.jpg",
+      "978cfccd8b25.jpg"
+    ],
+    "image_count": 17
+  },
+  "5": {
+    "mood_en": "vintage retro small room",
+    "mood_ko": "빈티지 레트로",
+    "mood_id": "vintage_retro",
+    "confidence": 0.29240795969963074,
+    "top3": [
+      {
+        "label": "warm cozy studio apartment interior",
+        "score": 0.31110814213752747
+      },
+      {
+        "label": "luxury modern studio apartment",
+        "score": 0.29720643162727356
+      },
+      {
+        "label": "vintage retro small room",
+        "score": 0.29240795969963074
+      }
+    ],
+    "representatives": [
+      "a290fc9e9539.jpeg",
+      "534c8b6a08ee.JPG",
+      "b2a13f1b4fc9.jpeg"
+    ],
+    "image_count": 55
+  },
+  "0": {
+    "mood_en": "natural wood tone small room",
+    "mood_ko": "내추럴 우드",
+    "mood_id": "natural_wood",
+    "confidence": 0.300168514251709,
+    "top3": [
+      {
+        "label": "warm cozy studio apartment interior",
+        "score": 0.3256385922431946
+      },
+      {
+        "label": "vintage retro small room",
+        "score": 0.31349924206733704
+      },
+      {
+        "label": "natural wood tone small room",
+        "score": 0.300168514251709
+      }
+    ],
+    "representatives": [
+      "08f31336961b.jpg",
+      "76e1b2b002c0.jpg",
+      "8cb2d68d08f5.jpg"
+    ],
+    "image_count": 62
+  },
+  "1": {
+    "mood_en": "minimal white scandinavian room",
+    "mood_ko": "미니멀 화이트",
+    "mood_id": "minimal_white",
+    "confidence": 0.3047000765800476,
+    "top3": [
+      {
+        "label": "warm cozy studio apartment interior",
+        "score": 0.316040575504303
+      },
+      {
+        "label": "minimal white scandinavian room",
+        "score": 0.3047000765800476
+      },
+      {
+        "label": "luxury modern studio apartment",
+        "score": 0.29694435000419617
+      }
+    ],
+    "representatives": [
+      "926bd8913cc5.jpg",
+      "23c8774a2c63.jpg",
+      "aac79c34783c.jpg"
+    ],
+    "image_count": 50
+  },
+  "4": {
+    "mood_en": "monochrome minimalist interior",
+    "mood_ko": "모노톤 미니멀",
+    "mood_id": "monochrome_minimal",
+    "confidence": 0.29412686824798584,
+    "top3": [
+      {
+        "label": "warm cozy studio apartment interior",
+        "score": 0.3189433813095093
+      },
+      {
+        "label": "vintage retro small room",
+        "score": 0.3087286949157715
+      },
+      {
+        "label": "minimal white scandinavian room",
+        "score": 0.30594998598098755
+      }
+    ],
+    "representatives": [
+      "4be16c12685e.jpg",
+      "59991104ff98.jpg",
+      "3f9ae27cab74.jpg"
+    ],
+    "image_count": 48
+  },
+  "2": {
+    "mood_en": "bright airy open studio",
+    "mood_ko": "밝은 에어리",
+    "mood_id": "bright_airy",
+    "confidence": 0.2775653898715973,
+    "top3": [
+      {
+        "label": "warm cozy studio apartment interior",
+        "score": 0.29601481556892395
+      },
+      {
+        "label": "vintage retro small room",
+        "score": 0.28730055689811707
+      },
+      {
+        "label": "luxury modern studio apartment",
+        "score": 0.27812668681144714
+      }
+    ],
+    "representatives": [
+      "3ae427e3ffb9.jpeg",
+      "3056d81ac50f.jpg",
+      "df7a40fb3ec3.jpeg"
+    ],
+    "image_count": 22
+  },
+  "3": {
+    "mood_en": "cute pastel room decor",
+    "mood_ko": "파스텔 귀여운",
+    "mood_id": "cute_pastel",
+    "confidence": 0.3089092969894409,
+    "top3": [
+      {
+        "label": "warm cozy studio apartment interior",
+        "score": 0.3231075406074524
+      },
+      {
+        "label": "vintage retro small room",
+        "score": 0.3190232813358307
+      },
+      {
+        "label": "minimal white scandinavian room",
+        "score": 0.3140641450881958
+      }
+    ],
+    "representatives": [
+      "17a6a29a8b91.jpg",
+      "2fd1cd319cc7.jpg",
+      "502d9671967f.jpg"
+    ],
+    "image_count": 65
+  }
+}

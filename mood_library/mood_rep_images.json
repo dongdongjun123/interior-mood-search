@@ -1,0 +1,2890 @@
+[
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "cover.jpg",
+    "path": "cute_pastel_c03/cover.jpg",
+    "embedding_index": 0
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "2fd1cd319cc7.jpg",
+    "path": "cute_pastel_c03/gallery/2fd1cd319cc7.jpg",
+    "embedding_index": 1
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "502d9671967f.jpg",
+    "path": "cute_pastel_c03/gallery/502d9671967f.jpg",
+    "embedding_index": 2
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "0535c682a607.png",
+    "path": "cute_pastel_c03/gallery/0535c682a607.png",
+    "embedding_index": 3
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "069951a66fea.jpg",
+    "path": "cute_pastel_c03/gallery/069951a66fea.jpg",
+    "embedding_index": 4
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "0e0874214f0a.jpg",
+    "path": "cute_pastel_c03/gallery/0e0874214f0a.jpg",
+    "embedding_index": 5
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "1230a0fbb802.jpg",
+    "path": "cute_pastel_c03/gallery/1230a0fbb802.jpg",
+    "embedding_index": 6
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "19e132328d6a.jpg",
+    "path": "cute_pastel_c03/gallery/19e132328d6a.jpg",
+    "embedding_index": 7
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "1a2cafba19c0.jpeg",
+    "path": "cute_pastel_c03/gallery/1a2cafba19c0.jpeg",
+    "embedding_index": 8
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "1d94e0f592a3.jpg",
+    "path": "cute_pastel_c03/gallery/1d94e0f592a3.jpg",
+    "embedding_index": 9
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "224b38b0b16a.jpg",
+    "path": "cute_pastel_c03/gallery/224b38b0b16a.jpg",
+    "embedding_index": 10
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "2290e17bbabe.png",
+    "path": "cute_pastel_c03/gallery/2290e17bbabe.png",
+    "embedding_index": 11
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "23a6f06d5e3c.jpg",
+    "path": "cute_pastel_c03/gallery/23a6f06d5e3c.jpg",
+    "embedding_index": 12
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "283731730e66.jpg",
+    "path": "cute_pastel_c03/gallery/283731730e66.jpg",
+    "embedding_index": 13
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "2945282feb35.jpg",
+    "path": "cute_pastel_c03/gallery/2945282feb35.jpg",
+    "embedding_index": 14
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "2ea3667e0682.jpg",
+    "path": "cute_pastel_c03/gallery/2ea3667e0682.jpg",
+    "embedding_index": 15
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "2f7cb9a420e9.jpg",
+    "path": "cute_pastel_c03/gallery/2f7cb9a420e9.jpg",
+    "embedding_index": 16
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "32eaaa0c7ecf.jpg",
+    "path": "cute_pastel_c03/gallery/32eaaa0c7ecf.jpg",
+    "embedding_index": 17
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "33f2cfc5f79e.jpg",
+    "path": "cute_pastel_c03/gallery/33f2cfc5f79e.jpg",
+    "embedding_index": 18
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "39dc638be854.jpg",
+    "path": "cute_pastel_c03/gallery/39dc638be854.jpg",
+    "embedding_index": 19
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "3f120b7adbf4.jpg",
+    "path": "cute_pastel_c03/gallery/3f120b7adbf4.jpg",
+    "embedding_index": 20
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "4c9484c06e5f.jpg",
+    "path": "cute_pastel_c03/gallery/4c9484c06e5f.jpg",
+    "embedding_index": 21
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "4f6db5b300bb.jpg",
+    "path": "cute_pastel_c03/gallery/4f6db5b300bb.jpg",
+    "embedding_index": 22
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "500c12ce7e3f.jpg",
+    "path": "cute_pastel_c03/gallery/500c12ce7e3f.jpg",
+    "embedding_index": 23
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "53cc10273ae8.jpg",
+    "path": "cute_pastel_c03/gallery/53cc10273ae8.jpg",
+    "embedding_index": 24
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "55db90c9194e.jpg",
+    "path": "cute_pastel_c03/gallery/55db90c9194e.jpg",
+    "embedding_index": 25
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "5ce33f94121a.jpg",
+    "path": "cute_pastel_c03/gallery/5ce33f94121a.jpg",
+    "embedding_index": 26
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "5cf95afd8343.jpg",
+    "path": "cute_pastel_c03/gallery/5cf95afd8343.jpg",
+    "embedding_index": 27
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "5e19684d3212.jpg",
+    "path": "cute_pastel_c03/gallery/5e19684d3212.jpg",
+    "embedding_index": 28
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "618596d43015.jpg",
+    "path": "cute_pastel_c03/gallery/618596d43015.jpg",
+    "embedding_index": 29
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "61ea4b51a8b1.jpg",
+    "path": "cute_pastel_c03/gallery/61ea4b51a8b1.jpg",
+    "embedding_index": 30
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "65dbbf7a185a.jpg",
+    "path": "cute_pastel_c03/gallery/65dbbf7a185a.jpg",
+    "embedding_index": 31
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "6756c4112cc4.jpg",
+    "path": "cute_pastel_c03/gallery/6756c4112cc4.jpg",
+    "embedding_index": 32
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "6b2c93034b1d.jpg",
+    "path": "cute_pastel_c03/gallery/6b2c93034b1d.jpg",
+    "embedding_index": 33
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "70200bf33f97.jpg",
+    "path": "cute_pastel_c03/gallery/70200bf33f97.jpg",
+    "embedding_index": 34
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "78ec38b81a15.jpg",
+    "path": "cute_pastel_c03/gallery/78ec38b81a15.jpg",
+    "embedding_index": 35
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "79094de2e41d.jpg",
+    "path": "cute_pastel_c03/gallery/79094de2e41d.jpg",
+    "embedding_index": 36
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "7abb55b41b2a.png",
+    "path": "cute_pastel_c03/gallery/7abb55b41b2a.png",
+    "embedding_index": 37
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "7fd83fc5b307.jpg",
+    "path": "cute_pastel_c03/gallery/7fd83fc5b307.jpg",
+    "embedding_index": 38
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "804ac59d024e.jpg",
+    "path": "cute_pastel_c03/gallery/804ac59d024e.jpg",
+    "embedding_index": 39
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "8296460f85a4.jpg",
+    "path": "cute_pastel_c03/gallery/8296460f85a4.jpg",
+    "embedding_index": 40
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "85640692df8e.jpg",
+    "path": "cute_pastel_c03/gallery/85640692df8e.jpg",
+    "embedding_index": 41
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "866a9f7450ec.jpg",
+    "path": "cute_pastel_c03/gallery/866a9f7450ec.jpg",
+    "embedding_index": 42
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "9560ac3ecf91.jpg",
+    "path": "cute_pastel_c03/gallery/9560ac3ecf91.jpg",
+    "embedding_index": 43
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "957944ea555a.jpg",
+    "path": "cute_pastel_c03/gallery/957944ea555a.jpg",
+    "embedding_index": 44
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "9d2e90e750ca.jpg",
+    "path": "cute_pastel_c03/gallery/9d2e90e750ca.jpg",
+    "embedding_index": 45
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "a30100abc28a.jpg",
+    "path": "cute_pastel_c03/gallery/a30100abc28a.jpg",
+    "embedding_index": 46
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "ad0f99c74c85.jpg",
+    "path": "cute_pastel_c03/gallery/ad0f99c74c85.jpg",
+    "embedding_index": 47
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "b04c5426b07d.jpg",
+    "path": "cute_pastel_c03/gallery/b04c5426b07d.jpg",
+    "embedding_index": 48
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "b21d42c9ceb4.jpg",
+    "path": "cute_pastel_c03/gallery/b21d42c9ceb4.jpg",
+    "embedding_index": 49
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "b4ed0c612f79.jpg",
+    "path": "cute_pastel_c03/gallery/b4ed0c612f79.jpg",
+    "embedding_index": 50
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "bcf705f9bf72.jpg",
+    "path": "cute_pastel_c03/gallery/bcf705f9bf72.jpg",
+    "embedding_index": 51
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "cd700968e214.jpg",
+    "path": "cute_pastel_c03/gallery/cd700968e214.jpg",
+    "embedding_index": 52
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "cfd27810f908.jpg",
+    "path": "cute_pastel_c03/gallery/cfd27810f908.jpg",
+    "embedding_index": 53
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "d06e16d8c65f.jpg",
+    "path": "cute_pastel_c03/gallery/d06e16d8c65f.jpg",
+    "embedding_index": 54
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "d1eb4e6780eb.jpg",
+    "path": "cute_pastel_c03/gallery/d1eb4e6780eb.jpg",
+    "embedding_index": 55
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "d613101cd36c.jpg",
+    "path": "cute_pastel_c03/gallery/d613101cd36c.jpg",
+    "embedding_index": 56
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "d7f912325c86.jpg",
+    "path": "cute_pastel_c03/gallery/d7f912325c86.jpg",
+    "embedding_index": 57
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "d879692b2f63.jpg",
+    "path": "cute_pastel_c03/gallery/d879692b2f63.jpg",
+    "embedding_index": 58
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "da6d4e63c6ad.jpg",
+    "path": "cute_pastel_c03/gallery/da6d4e63c6ad.jpg",
+    "embedding_index": 59
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "dab0ff14a0be.jpg",
+    "path": "cute_pastel_c03/gallery/dab0ff14a0be.jpg",
+    "embedding_index": 60
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "f02772681303.jpg",
+    "path": "cute_pastel_c03/gallery/f02772681303.jpg",
+    "embedding_index": 61
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "f2c97178237e.jpg",
+    "path": "cute_pastel_c03/gallery/f2c97178237e.jpg",
+    "embedding_index": 62
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "fc7196741518.jpg",
+    "path": "cute_pastel_c03/gallery/fc7196741518.jpg",
+    "embedding_index": 63
+  },
+  {
+    "id": "cute_pastel_c03",
+    "mood_id": "cute_pastel",
+    "mood_name_ko": "파스텔 귀여운",
+    "filename": "fcdbf3cc238d.jpg",
+    "path": "cute_pastel_c03/gallery/fcdbf3cc238d.jpg",
+    "embedding_index": 64
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "cover.jpg",
+    "path": "natural_wood_c00/cover.jpg",
+    "embedding_index": 65
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "76e1b2b002c0.jpg",
+    "path": "natural_wood_c00/gallery/76e1b2b002c0.jpg",
+    "embedding_index": 66
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "8cb2d68d08f5.jpg",
+    "path": "natural_wood_c00/gallery/8cb2d68d08f5.jpg",
+    "embedding_index": 67
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "003e0ad2bc74.jpg",
+    "path": "natural_wood_c00/gallery/003e0ad2bc74.jpg",
+    "embedding_index": 68
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "0598ff32dc66.jpg",
+    "path": "natural_wood_c00/gallery/0598ff32dc66.jpg",
+    "embedding_index": 69
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "0d9493debbc2.jpg",
+    "path": "natural_wood_c00/gallery/0d9493debbc2.jpg",
+    "embedding_index": 70
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "0da58419da3d.jpg",
+    "path": "natural_wood_c00/gallery/0da58419da3d.jpg",
+    "embedding_index": 71
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "0f8dbd42a9ec.jpg",
+    "path": "natural_wood_c00/gallery/0f8dbd42a9ec.jpg",
+    "embedding_index": 72
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "17ee191e62db.jpg",
+    "path": "natural_wood_c00/gallery/17ee191e62db.jpg",
+    "embedding_index": 73
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "237f4c77b583.jpg",
+    "path": "natural_wood_c00/gallery/237f4c77b583.jpg",
+    "embedding_index": 74
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "2521ea2872e5.jpg",
+    "path": "natural_wood_c00/gallery/2521ea2872e5.jpg",
+    "embedding_index": 75
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "29270f517827.jpg",
+    "path": "natural_wood_c00/gallery/29270f517827.jpg",
+    "embedding_index": 76
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "2e9d1536ba4d.jpg",
+    "path": "natural_wood_c00/gallery/2e9d1536ba4d.jpg",
+    "embedding_index": 77
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "30f0a9309b13.png",
+    "path": "natural_wood_c00/gallery/30f0a9309b13.png",
+    "embedding_index": 78
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "3a6f88b20aac.jpg",
+    "path": "natural_wood_c00/gallery/3a6f88b20aac.jpg",
+    "embedding_index": 79
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "3b5bd3e387a4.jpg",
+    "path": "natural_wood_c00/gallery/3b5bd3e387a4.jpg",
+    "embedding_index": 80
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "404e2ff66d1c.jpg",
+    "path": "natural_wood_c00/gallery/404e2ff66d1c.jpg",
+    "embedding_index": 81
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "418968354e43.jpg",
+    "path": "natural_wood_c00/gallery/418968354e43.jpg",
+    "embedding_index": 82
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "56beb38e6521.jpg",
+    "path": "natural_wood_c00/gallery/56beb38e6521.jpg",
+    "embedding_index": 83
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "5b396f1331ac.jpg",
+    "path": "natural_wood_c00/gallery/5b396f1331ac.jpg",
+    "embedding_index": 84
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "5b60a1ed1ae7.jpg",
+    "path": "natural_wood_c00/gallery/5b60a1ed1ae7.jpg",
+    "embedding_index": 85
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "6a0ce1caf4cf.jpg",
+    "path": "natural_wood_c00/gallery/6a0ce1caf4cf.jpg",
+    "embedding_index": 86
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "6af703a65416.jpg",
+    "path": "natural_wood_c00/gallery/6af703a65416.jpg",
+    "embedding_index": 87
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "6b284ca600ce.jpg",
+    "path": "natural_wood_c00/gallery/6b284ca600ce.jpg",
+    "embedding_index": 88
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "6e367ba857b9.jpg",
+    "path": "natural_wood_c00/gallery/6e367ba857b9.jpg",
+    "embedding_index": 89
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "6fde19de3f90.jpg",
+    "path": "natural_wood_c00/gallery/6fde19de3f90.jpg",
+    "embedding_index": 90
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "7147fc565ad4.jpg",
+    "path": "natural_wood_c00/gallery/7147fc565ad4.jpg",
+    "embedding_index": 91
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "73b356807a93.jpg",
+    "path": "natural_wood_c00/gallery/73b356807a93.jpg",
+    "embedding_index": 92
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "7cf48c23b481.png",
+    "path": "natural_wood_c00/gallery/7cf48c23b481.png",
+    "embedding_index": 93
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "8295557183b8.jpg",
+    "path": "natural_wood_c00/gallery/8295557183b8.jpg",
+    "embedding_index": 94
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "8858e655877a.jpg",
+    "path": "natural_wood_c00/gallery/8858e655877a.jpg",
+    "embedding_index": 95
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "8b0640ccd249.jpg",
+    "path": "natural_wood_c00/gallery/8b0640ccd249.jpg",
+    "embedding_index": 96
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "8e2f87f73962.jpg",
+    "path": "natural_wood_c00/gallery/8e2f87f73962.jpg",
+    "embedding_index": 97
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "980f492a9fe0.jpg",
+    "path": "natural_wood_c00/gallery/980f492a9fe0.jpg",
+    "embedding_index": 98
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "9d7a1cc153a0.jpg",
+    "path": "natural_wood_c00/gallery/9d7a1cc153a0.jpg",
+    "embedding_index": 99
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "9e43b9808f8c.jpg",
+    "path": "natural_wood_c00/gallery/9e43b9808f8c.jpg",
+    "embedding_index": 100
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "9edeb6933d7b.jpg",
+    "path": "natural_wood_c00/gallery/9edeb6933d7b.jpg",
+    "embedding_index": 101
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "a3764206b1b6.jpg",
+    "path": "natural_wood_c00/gallery/a3764206b1b6.jpg",
+    "embedding_index": 102
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "a48333b83d00.jpg",
+    "path": "natural_wood_c00/gallery/a48333b83d00.jpg",
+    "embedding_index": 103
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "a67f6146dae0.jpg",
+    "path": "natural_wood_c00/gallery/a67f6146dae0.jpg",
+    "embedding_index": 104
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "a914cd4db1a6.jpg",
+    "path": "natural_wood_c00/gallery/a914cd4db1a6.jpg",
+    "embedding_index": 105
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "adc95106fbfb.jpg",
+    "path": "natural_wood_c00/gallery/adc95106fbfb.jpg",
+    "embedding_index": 106
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "b466bbbaf941.jpg",
+    "path": "natural_wood_c00/gallery/b466bbbaf941.jpg",
+    "embedding_index": 107
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "b6d08d285a11.jpg",
+    "path": "natural_wood_c00/gallery/b6d08d285a11.jpg",
+    "embedding_index": 108
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "b71d0a1d1534.jpg",
+    "path": "natural_wood_c00/gallery/b71d0a1d1534.jpg",
+    "embedding_index": 109
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "ba1481671fe9.jpg",
+    "path": "natural_wood_c00/gallery/ba1481671fe9.jpg",
+    "embedding_index": 110
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "bdd56cf86ca8.jpg",
+    "path": "natural_wood_c00/gallery/bdd56cf86ca8.jpg",
+    "embedding_index": 111
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "c3b407bcf406.jpg",
+    "path": "natural_wood_c00/gallery/c3b407bcf406.jpg",
+    "embedding_index": 112
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "c701b1507455.jpg",
+    "path": "natural_wood_c00/gallery/c701b1507455.jpg",
+    "embedding_index": 113
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "c9ebbebb366e.jpg",
+    "path": "natural_wood_c00/gallery/c9ebbebb366e.jpg",
+    "embedding_index": 114
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "d2ac7f996d8e.jpg",
+    "path": "natural_wood_c00/gallery/d2ac7f996d8e.jpg",
+    "embedding_index": 115
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "d577989eb5ff.jpg",
+    "path": "natural_wood_c00/gallery/d577989eb5ff.jpg",
+    "embedding_index": 116
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "d6334428b3d0.jpg",
+    "path": "natural_wood_c00/gallery/d6334428b3d0.jpg",
+    "embedding_index": 117
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "d8a23d42995e.jpg",
+    "path": "natural_wood_c00/gallery/d8a23d42995e.jpg",
+    "embedding_index": 118
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "d976251682d4.jpg",
+    "path": "natural_wood_c00/gallery/d976251682d4.jpg",
+    "embedding_index": 119
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "df8bca977799.jpg",
+    "path": "natural_wood_c00/gallery/df8bca977799.jpg",
+    "embedding_index": 120
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "dfce7ca4812d.jpg",
+    "path": "natural_wood_c00/gallery/dfce7ca4812d.jpg",
+    "embedding_index": 121
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "e6dae33a2559.jpg",
+    "path": "natural_wood_c00/gallery/e6dae33a2559.jpg",
+    "embedding_index": 122
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "e77a08f40b7c.jpg",
+    "path": "natural_wood_c00/gallery/e77a08f40b7c.jpg",
+    "embedding_index": 123
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "f22f55a49a29.jpg",
+    "path": "natural_wood_c00/gallery/f22f55a49a29.jpg",
+    "embedding_index": 124
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "f44d9ca50a1d.jpg",
+    "path": "natural_wood_c00/gallery/f44d9ca50a1d.jpg",
+    "embedding_index": 125
+  },
+  {
+    "id": "natural_wood_c00",
+    "mood_id": "natural_wood",
+    "mood_name_ko": "내추럴 우드",
+    "filename": "f61e3c38f7eb.jpg",
+    "path": "natural_wood_c00/gallery/f61e3c38f7eb.jpg",
+    "embedding_index": 126
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "cover.jpg",
+    "path": "vintage_retro_c05/cover.jpg",
+    "embedding_index": 127
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "a290fc9e9539.jpeg",
+    "path": "vintage_retro_c05/gallery/a290fc9e9539.jpeg",
+    "embedding_index": 128
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "b2a13f1b4fc9.jpeg",
+    "path": "vintage_retro_c05/gallery/b2a13f1b4fc9.jpeg",
+    "embedding_index": 129
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "01a3a801d075.JPG",
+    "path": "vintage_retro_c05/gallery/01a3a801d075.JPG",
+    "embedding_index": 130
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "01c706b7aedb.jpg",
+    "path": "vintage_retro_c05/gallery/01c706b7aedb.jpg",
+    "embedding_index": 131
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "03a6878d5ac7.jpeg",
+    "path": "vintage_retro_c05/gallery/03a6878d5ac7.jpeg",
+    "embedding_index": 132
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "047c255a30f5.jpeg",
+    "path": "vintage_retro_c05/gallery/047c255a30f5.jpeg",
+    "embedding_index": 133
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "07240a43ecce.jpg",
+    "path": "vintage_retro_c05/gallery/07240a43ecce.jpg",
+    "embedding_index": 134
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "0e071c3da348.jpg",
+    "path": "vintage_retro_c05/gallery/0e071c3da348.jpg",
+    "embedding_index": 135
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "13a163ca65ea.jpg",
+    "path": "vintage_retro_c05/gallery/13a163ca65ea.jpg",
+    "embedding_index": 136
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "1974258cbeb0.JPG",
+    "path": "vintage_retro_c05/gallery/1974258cbeb0.JPG",
+    "embedding_index": 137
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "25c3c767a8bf.jpeg",
+    "path": "vintage_retro_c05/gallery/25c3c767a8bf.jpeg",
+    "embedding_index": 138
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "2acfe914ec30.jpeg",
+    "path": "vintage_retro_c05/gallery/2acfe914ec30.jpeg",
+    "embedding_index": 139
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "2bc7318c8cb8.jpg",
+    "path": "vintage_retro_c05/gallery/2bc7318c8cb8.jpg",
+    "embedding_index": 140
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "2e5c2775a885.jpg",
+    "path": "vintage_retro_c05/gallery/2e5c2775a885.jpg",
+    "embedding_index": 141
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "2efb50d44eb4.jpg",
+    "path": "vintage_retro_c05/gallery/2efb50d44eb4.jpg",
+    "embedding_index": 142
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "33699bbefc6b.jpg",
+    "path": "vintage_retro_c05/gallery/33699bbefc6b.jpg",
+    "embedding_index": 143
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "356301249d45.jpg",
+    "path": "vintage_retro_c05/gallery/356301249d45.jpg",
+    "embedding_index": 144
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "3bdd7363f5eb.jpg",
+    "path": "vintage_retro_c05/gallery/3bdd7363f5eb.jpg",
+    "embedding_index": 145
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "3e7ca6995e6f.JPG",
+    "path": "vintage_retro_c05/gallery/3e7ca6995e6f.JPG",
+    "embedding_index": 146
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "49bf5f18a7cb.jpeg",
+    "path": "vintage_retro_c05/gallery/49bf5f18a7cb.jpeg",
+    "embedding_index": 147
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "4e58d9ab382a.jpg",
+    "path": "vintage_retro_c05/gallery/4e58d9ab382a.jpg",
+    "embedding_index": 148
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "4ff71505a0c8.jpg",
+    "path": "vintage_retro_c05/gallery/4ff71505a0c8.jpg",
+    "embedding_index": 149
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "574c7e95faa2.jpeg",
+    "path": "vintage_retro_c05/gallery/574c7e95faa2.jpeg",
+    "embedding_index": 150
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "5cdf711d4939.jpeg",
+    "path": "vintage_retro_c05/gallery/5cdf711d4939.jpeg",
+    "embedding_index": 151
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "690eb1768353.jpeg",
+    "path": "vintage_retro_c05/gallery/690eb1768353.jpeg",
+    "embedding_index": 152
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "743ede0feed6.JPG",
+    "path": "vintage_retro_c05/gallery/743ede0feed6.JPG",
+    "embedding_index": 153
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "7736201e2aa1.jpeg",
+    "path": "vintage_retro_c05/gallery/7736201e2aa1.jpeg",
+    "embedding_index": 154
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "7968f70bdb8f.jpg",
+    "path": "vintage_retro_c05/gallery/7968f70bdb8f.jpg",
+    "embedding_index": 155
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "8222a30347bc.jpeg",
+    "path": "vintage_retro_c05/gallery/8222a30347bc.jpeg",
+    "embedding_index": 156
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "867d63e2bc8b.jpeg",
+    "path": "vintage_retro_c05/gallery/867d63e2bc8b.jpeg",
+    "embedding_index": 157
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "8c38300cf8b5.jpeg",
+    "path": "vintage_retro_c05/gallery/8c38300cf8b5.jpeg",
+    "embedding_index": 158
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "900229cfa2ce.jpg",
+    "path": "vintage_retro_c05/gallery/900229cfa2ce.jpg",
+    "embedding_index": 159
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "921c4715fe3f.jpeg",
+    "path": "vintage_retro_c05/gallery/921c4715fe3f.jpeg",
+    "embedding_index": 160
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "9996d5a439c4.jpeg",
+    "path": "vintage_retro_c05/gallery/9996d5a439c4.jpeg",
+    "embedding_index": 161
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "99fc6af23a1a.JPG",
+    "path": "vintage_retro_c05/gallery/99fc6af23a1a.JPG",
+    "embedding_index": 162
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "a1bd4ceb82ff.jpg",
+    "path": "vintage_retro_c05/gallery/a1bd4ceb82ff.jpg",
+    "embedding_index": 163
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "a1dfe3ea50fb.jpeg",
+    "path": "vintage_retro_c05/gallery/a1dfe3ea50fb.jpeg",
+    "embedding_index": 164
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "aa8da5e84e45.jpg",
+    "path": "vintage_retro_c05/gallery/aa8da5e84e45.jpg",
+    "embedding_index": 165
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "aad9d807396e.jpg",
+    "path": "vintage_retro_c05/gallery/aad9d807396e.jpg",
+    "embedding_index": 166
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "bae29e9eeb1c.jpg",
+    "path": "vintage_retro_c05/gallery/bae29e9eeb1c.jpg",
+    "embedding_index": 167
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "c2cd7da2cf3d.jpeg",
+    "path": "vintage_retro_c05/gallery/c2cd7da2cf3d.jpeg",
+    "embedding_index": 168
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "c31f2c776c72.jpeg",
+    "path": "vintage_retro_c05/gallery/c31f2c776c72.jpeg",
+    "embedding_index": 169
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "c6723672a982.jpeg",
+    "path": "vintage_retro_c05/gallery/c6723672a982.jpeg",
+    "embedding_index": 170
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "c6cdb54c0238.jpeg",
+    "path": "vintage_retro_c05/gallery/c6cdb54c0238.jpeg",
+    "embedding_index": 171
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "cd8ff027c02f.JPG",
+    "path": "vintage_retro_c05/gallery/cd8ff027c02f.JPG",
+    "embedding_index": 172
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "cdadeaeda95a.jpeg",
+    "path": "vintage_retro_c05/gallery/cdadeaeda95a.jpeg",
+    "embedding_index": 173
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "cdcd583b7801.jpeg",
+    "path": "vintage_retro_c05/gallery/cdcd583b7801.jpeg",
+    "embedding_index": 174
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "d3e7c033b3fb.jpeg",
+    "path": "vintage_retro_c05/gallery/d3e7c033b3fb.jpeg",
+    "embedding_index": 175
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "d9ab9e47094c.jpg",
+    "path": "vintage_retro_c05/gallery/d9ab9e47094c.jpg",
+    "embedding_index": 176
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "d9e631ff0f2f.jpg",
+    "path": "vintage_retro_c05/gallery/d9e631ff0f2f.jpg",
+    "embedding_index": 177
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "dc2351b23ef3.jpg",
+    "path": "vintage_retro_c05/gallery/dc2351b23ef3.jpg",
+    "embedding_index": 178
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "e7af41888375.jpeg",
+    "path": "vintage_retro_c05/gallery/e7af41888375.jpeg",
+    "embedding_index": 179
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "ed1c1ef1400a.jpg",
+    "path": "vintage_retro_c05/gallery/ed1c1ef1400a.jpg",
+    "embedding_index": 180
+  },
+  {
+    "id": "vintage_retro_c05",
+    "mood_id": "vintage_retro",
+    "mood_name_ko": "빈티지 레트로",
+    "filename": "ee9b524ce573.jpeg",
+    "path": "vintage_retro_c05/gallery/ee9b524ce573.jpeg",
+    "embedding_index": 181
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "cover.jpg",
+    "path": "minimal_white_c01/cover.jpg",
+    "embedding_index": 182
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "926bd8913cc5.jpg",
+    "path": "minimal_white_c01/gallery/926bd8913cc5.jpg",
+    "embedding_index": 183
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "aac79c34783c.jpg",
+    "path": "minimal_white_c01/gallery/aac79c34783c.jpg",
+    "embedding_index": 184
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "017ccbeb4150.jpg",
+    "path": "minimal_white_c01/gallery/017ccbeb4150.jpg",
+    "embedding_index": 185
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "025d1e5cf719.jpg",
+    "path": "minimal_white_c01/gallery/025d1e5cf719.jpg",
+    "embedding_index": 186
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "0f0b1b12bc03.jpg",
+    "path": "minimal_white_c01/gallery/0f0b1b12bc03.jpg",
+    "embedding_index": 187
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "109a047ba562.jpeg",
+    "path": "minimal_white_c01/gallery/109a047ba562.jpeg",
+    "embedding_index": 188
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "194fbb18c2bc.jpeg",
+    "path": "minimal_white_c01/gallery/194fbb18c2bc.jpeg",
+    "embedding_index": 189
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "2c4ea526a75e.jpg",
+    "path": "minimal_white_c01/gallery/2c4ea526a75e.jpg",
+    "embedding_index": 190
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "31ee9e8c16e5.jpg",
+    "path": "minimal_white_c01/gallery/31ee9e8c16e5.jpg",
+    "embedding_index": 191
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "37b520f5df77.jpeg",
+    "path": "minimal_white_c01/gallery/37b520f5df77.jpeg",
+    "embedding_index": 192
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "3a5ad9150b02.jpg",
+    "path": "minimal_white_c01/gallery/3a5ad9150b02.jpg",
+    "embedding_index": 193
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "40246424323d.png",
+    "path": "minimal_white_c01/gallery/40246424323d.png",
+    "embedding_index": 194
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "4a0efb8c8370.jpg",
+    "path": "minimal_white_c01/gallery/4a0efb8c8370.jpg",
+    "embedding_index": 195
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "4b12a750f1ce.jpg",
+    "path": "minimal_white_c01/gallery/4b12a750f1ce.jpg",
+    "embedding_index": 196
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "4c0a1b94f054.jpg",
+    "path": "minimal_white_c01/gallery/4c0a1b94f054.jpg",
+    "embedding_index": 197
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "4c0b76dd0c81.jpg",
+    "path": "minimal_white_c01/gallery/4c0b76dd0c81.jpg",
+    "embedding_index": 198
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "63d1aeeb3f53.png",
+    "path": "minimal_white_c01/gallery/63d1aeeb3f53.png",
+    "embedding_index": 199
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "649fffb69a5d.jpg",
+    "path": "minimal_white_c01/gallery/649fffb69a5d.jpg",
+    "embedding_index": 200
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "6a9a167c50b8.jpg",
+    "path": "minimal_white_c01/gallery/6a9a167c50b8.jpg",
+    "embedding_index": 201
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "6c0a9d5df83f.jpg",
+    "path": "minimal_white_c01/gallery/6c0a9d5df83f.jpg",
+    "embedding_index": 202
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "6d52d467989f.jpg",
+    "path": "minimal_white_c01/gallery/6d52d467989f.jpg",
+    "embedding_index": 203
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "71846af7f20d.jpeg",
+    "path": "minimal_white_c01/gallery/71846af7f20d.jpeg",
+    "embedding_index": 204
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "74a893dc6d5d.jpg",
+    "path": "minimal_white_c01/gallery/74a893dc6d5d.jpg",
+    "embedding_index": 205
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "7564f96a4578.jpg",
+    "path": "minimal_white_c01/gallery/7564f96a4578.jpg",
+    "embedding_index": 206
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "82bfb8065990.jpeg",
+    "path": "minimal_white_c01/gallery/82bfb8065990.jpeg",
+    "embedding_index": 207
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "9110099f1604.png",
+    "path": "minimal_white_c01/gallery/9110099f1604.png",
+    "embedding_index": 208
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "98b04778517d.jpg",
+    "path": "minimal_white_c01/gallery/98b04778517d.jpg",
+    "embedding_index": 209
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "9c6c5c57ec99.jpg",
+    "path": "minimal_white_c01/gallery/9c6c5c57ec99.jpg",
+    "embedding_index": 210
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "a7eb064b014a.jpeg",
+    "path": "minimal_white_c01/gallery/a7eb064b014a.jpeg",
+    "embedding_index": 211
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "a85f33e4334f.jpg",
+    "path": "minimal_white_c01/gallery/a85f33e4334f.jpg",
+    "embedding_index": 212
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "ac11a0321c75.jpg",
+    "path": "minimal_white_c01/gallery/ac11a0321c75.jpg",
+    "embedding_index": 213
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "b1031610ae3e.jpg",
+    "path": "minimal_white_c01/gallery/b1031610ae3e.jpg",
+    "embedding_index": 214
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "b5a53394dd67.jpg",
+    "path": "minimal_white_c01/gallery/b5a53394dd67.jpg",
+    "embedding_index": 215
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "bb0174d093d3.jpg",
+    "path": "minimal_white_c01/gallery/bb0174d093d3.jpg",
+    "embedding_index": 216
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "bea6aa2ebb20.jpg",
+    "path": "minimal_white_c01/gallery/bea6aa2ebb20.jpg",
+    "embedding_index": 217
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "c905df5f99de.jpg",
+    "path": "minimal_white_c01/gallery/c905df5f99de.jpg",
+    "embedding_index": 218
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "c9d34a6c8c9a.jpg",
+    "path": "minimal_white_c01/gallery/c9d34a6c8c9a.jpg",
+    "embedding_index": 219
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "cef081ef5004.jpg",
+    "path": "minimal_white_c01/gallery/cef081ef5004.jpg",
+    "embedding_index": 220
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "d02328b613d9.JPG",
+    "path": "minimal_white_c01/gallery/d02328b613d9.JPG",
+    "embedding_index": 221
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "daa3a5a1a001.jpg",
+    "path": "minimal_white_c01/gallery/daa3a5a1a001.jpg",
+    "embedding_index": 222
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "daf815724573.jpg",
+    "path": "minimal_white_c01/gallery/daf815724573.jpg",
+    "embedding_index": 223
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "dbcd61f20338.jpg",
+    "path": "minimal_white_c01/gallery/dbcd61f20338.jpg",
+    "embedding_index": 224
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "df77ea80f6f0.jpg",
+    "path": "minimal_white_c01/gallery/df77ea80f6f0.jpg",
+    "embedding_index": 225
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "e0d4fe7fdf97.jpg",
+    "path": "minimal_white_c01/gallery/e0d4fe7fdf97.jpg",
+    "embedding_index": 226
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "e26be5913956.jpg",
+    "path": "minimal_white_c01/gallery/e26be5913956.jpg",
+    "embedding_index": 227
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "e9a249542285.jpg",
+    "path": "minimal_white_c01/gallery/e9a249542285.jpg",
+    "embedding_index": 228
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "eb189ec70c58.jpg",
+    "path": "minimal_white_c01/gallery/eb189ec70c58.jpg",
+    "embedding_index": 229
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "edd7fc25149b.jpg",
+    "path": "minimal_white_c01/gallery/edd7fc25149b.jpg",
+    "embedding_index": 230
+  },
+  {
+    "id": "minimal_white_c01",
+    "mood_id": "minimal_white",
+    "mood_name_ko": "미니멀 화이트",
+    "filename": "f132dad6e35b.jpg",
+    "path": "minimal_white_c01/gallery/f132dad6e35b.jpg",
+    "embedding_index": 231
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "cover.jpg",
+    "path": "monochrome_minimal_c04/cover.jpg",
+    "embedding_index": 232
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "4be16c12685e.jpg",
+    "path": "monochrome_minimal_c04/gallery/4be16c12685e.jpg",
+    "embedding_index": 233
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "59991104ff98.jpg",
+    "path": "monochrome_minimal_c04/gallery/59991104ff98.jpg",
+    "embedding_index": 234
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "11469e971dc9.jpg",
+    "path": "monochrome_minimal_c04/gallery/11469e971dc9.jpg",
+    "embedding_index": 235
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "12b6d7326831.jpg",
+    "path": "monochrome_minimal_c04/gallery/12b6d7326831.jpg",
+    "embedding_index": 236
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "12f1193ca3cd.jpg",
+    "path": "monochrome_minimal_c04/gallery/12f1193ca3cd.jpg",
+    "embedding_index": 237
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "1bc9d32396d7.JPG",
+    "path": "monochrome_minimal_c04/gallery/1bc9d32396d7.JPG",
+    "embedding_index": 238
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "2279efc40a99.jpg",
+    "path": "monochrome_minimal_c04/gallery/2279efc40a99.jpg",
+    "embedding_index": 239
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "232a4905acd6.jpg",
+    "path": "monochrome_minimal_c04/gallery/232a4905acd6.jpg",
+    "embedding_index": 240
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "23bfbc7365d4.jpg",
+    "path": "monochrome_minimal_c04/gallery/23bfbc7365d4.jpg",
+    "embedding_index": 241
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "2509c56db69d.JPG",
+    "path": "monochrome_minimal_c04/gallery/2509c56db69d.JPG",
+    "embedding_index": 242
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "2dcaff7b335a.jpg",
+    "path": "monochrome_minimal_c04/gallery/2dcaff7b335a.jpg",
+    "embedding_index": 243
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "2fdc533edf5e.jpg",
+    "path": "monochrome_minimal_c04/gallery/2fdc533edf5e.jpg",
+    "embedding_index": 244
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "35d3d028eb6e.jpeg",
+    "path": "monochrome_minimal_c04/gallery/35d3d028eb6e.jpeg",
+    "embedding_index": 245
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "37a2e163d1c4.jpg",
+    "path": "monochrome_minimal_c04/gallery/37a2e163d1c4.jpg",
+    "embedding_index": 246
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "3eae342060c1.jpg",
+    "path": "monochrome_minimal_c04/gallery/3eae342060c1.jpg",
+    "embedding_index": 247
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "40ead260f549.jpeg",
+    "path": "monochrome_minimal_c04/gallery/40ead260f549.jpeg",
+    "embedding_index": 248
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "413b26f113b4.jpg",
+    "path": "monochrome_minimal_c04/gallery/413b26f113b4.jpg",
+    "embedding_index": 249
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "430ccec1c47b.jpg",
+    "path": "monochrome_minimal_c04/gallery/430ccec1c47b.jpg",
+    "embedding_index": 250
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "4dc4c27cc26b.jpeg",
+    "path": "monochrome_minimal_c04/gallery/4dc4c27cc26b.jpeg",
+    "embedding_index": 251
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "59a13b47c446.jpg",
+    "path": "monochrome_minimal_c04/gallery/59a13b47c446.jpg",
+    "embedding_index": 252
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "5a8eb6a383a8.jpeg",
+    "path": "monochrome_minimal_c04/gallery/5a8eb6a383a8.jpeg",
+    "embedding_index": 253
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "5e8898091053.jpg",
+    "path": "monochrome_minimal_c04/gallery/5e8898091053.jpg",
+    "embedding_index": 254
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "6c824dfdc03b.jpg",
+    "path": "monochrome_minimal_c04/gallery/6c824dfdc03b.jpg",
+    "embedding_index": 255
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "8d3fac4380e2.jpg",
+    "path": "monochrome_minimal_c04/gallery/8d3fac4380e2.jpg",
+    "embedding_index": 256
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "943a200017db.jpg",
+    "path": "monochrome_minimal_c04/gallery/943a200017db.jpg",
+    "embedding_index": 257
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "944bbe54e18f.jpg",
+    "path": "monochrome_minimal_c04/gallery/944bbe54e18f.jpg",
+    "embedding_index": 258
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "957fe9e84eaa.jpg",
+    "path": "monochrome_minimal_c04/gallery/957fe9e84eaa.jpg",
+    "embedding_index": 259
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "9effee9c33e5.jpg",
+    "path": "monochrome_minimal_c04/gallery/9effee9c33e5.jpg",
+    "embedding_index": 260
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "aeebdd85c12a.jpg",
+    "path": "monochrome_minimal_c04/gallery/aeebdd85c12a.jpg",
+    "embedding_index": 261
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "b501fd702192.jpeg",
+    "path": "monochrome_minimal_c04/gallery/b501fd702192.jpeg",
+    "embedding_index": 262
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "b6b957a96fb5.jpg",
+    "path": "monochrome_minimal_c04/gallery/b6b957a96fb5.jpg",
+    "embedding_index": 263
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "bf0e7e33abe8.jpg",
+    "path": "monochrome_minimal_c04/gallery/bf0e7e33abe8.jpg",
+    "embedding_index": 264
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "c23e47c10fb7.jpg",
+    "path": "monochrome_minimal_c04/gallery/c23e47c10fb7.jpg",
+    "embedding_index": 265
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "c3b982b4035f.jpg",
+    "path": "monochrome_minimal_c04/gallery/c3b982b4035f.jpg",
+    "embedding_index": 266
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "c62233fe4b24.jpg",
+    "path": "monochrome_minimal_c04/gallery/c62233fe4b24.jpg",
+    "embedding_index": 267
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "c9e9cccdc588.jpg",
+    "path": "monochrome_minimal_c04/gallery/c9e9cccdc588.jpg",
+    "embedding_index": 268
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "cdc928479767.jpg",
+    "path": "monochrome_minimal_c04/gallery/cdc928479767.jpg",
+    "embedding_index": 269
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "ce611bf0f144.jpeg",
+    "path": "monochrome_minimal_c04/gallery/ce611bf0f144.jpeg",
+    "embedding_index": 270
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "cea0e2bc0380.jpg",
+    "path": "monochrome_minimal_c04/gallery/cea0e2bc0380.jpg",
+    "embedding_index": 271
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "d1d49cff82eb.jpg",
+    "path": "monochrome_minimal_c04/gallery/d1d49cff82eb.jpg",
+    "embedding_index": 272
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "d6794a6ca1ab.jpg",
+    "path": "monochrome_minimal_c04/gallery/d6794a6ca1ab.jpg",
+    "embedding_index": 273
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "d8decb66e68e.JPG",
+    "path": "monochrome_minimal_c04/gallery/d8decb66e68e.JPG",
+    "embedding_index": 274
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "dd613f7eea24.png",
+    "path": "monochrome_minimal_c04/gallery/dd613f7eea24.png",
+    "embedding_index": 275
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "e18cc9603434.jpg",
+    "path": "monochrome_minimal_c04/gallery/e18cc9603434.jpg",
+    "embedding_index": 276
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "e289ba49c306.jpg",
+    "path": "monochrome_minimal_c04/gallery/e289ba49c306.jpg",
+    "embedding_index": 277
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "f00c36d6cce9.jpg",
+    "path": "monochrome_minimal_c04/gallery/f00c36d6cce9.jpg",
+    "embedding_index": 278
+  },
+  {
+    "id": "monochrome_minimal_c04",
+    "mood_id": "monochrome_minimal",
+    "mood_name_ko": "모노톤 미니멀",
+    "filename": "f4cd7573ffca.jpeg",
+    "path": "monochrome_minimal_c04/gallery/f4cd7573ffca.jpeg",
+    "embedding_index": 279
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "cover.jpg",
+    "path": "warm_cozy_c06/cover.jpg",
+    "embedding_index": 280
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "587567ead34d.jpg",
+    "path": "warm_cozy_c06/gallery/587567ead34d.jpg",
+    "embedding_index": 281
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "ec8caf600a4a.jpg",
+    "path": "warm_cozy_c06/gallery/ec8caf600a4a.jpg",
+    "embedding_index": 282
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "0c0337d36b21.jpg",
+    "path": "warm_cozy_c06/gallery/0c0337d36b21.jpg",
+    "embedding_index": 283
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "0f646d643090.jpg",
+    "path": "warm_cozy_c06/gallery/0f646d643090.jpg",
+    "embedding_index": 284
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "15225d33761b.jpg",
+    "path": "warm_cozy_c06/gallery/15225d33761b.jpg",
+    "embedding_index": 285
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "1f51f109fd2b.jpg",
+    "path": "warm_cozy_c06/gallery/1f51f109fd2b.jpg",
+    "embedding_index": 286
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "21e6d8a0aeee.jpg",
+    "path": "warm_cozy_c06/gallery/21e6d8a0aeee.jpg",
+    "embedding_index": 287
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "34b7856b7c14.jpg",
+    "path": "warm_cozy_c06/gallery/34b7856b7c14.jpg",
+    "embedding_index": 288
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "47a009def130.jpg",
+    "path": "warm_cozy_c06/gallery/47a009def130.jpg",
+    "embedding_index": 289
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "4b807cb1ec42.jpg",
+    "path": "warm_cozy_c06/gallery/4b807cb1ec42.jpg",
+    "embedding_index": 290
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "4d770ae5942c.jpg",
+    "path": "warm_cozy_c06/gallery/4d770ae5942c.jpg",
+    "embedding_index": 291
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "53dab1f6bdda.jpg",
+    "path": "warm_cozy_c06/gallery/53dab1f6bdda.jpg",
+    "embedding_index": 292
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "57b0d6f9ba74.jpg",
+    "path": "warm_cozy_c06/gallery/57b0d6f9ba74.jpg",
+    "embedding_index": 293
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "733e69be25c0.jpg",
+    "path": "warm_cozy_c06/gallery/733e69be25c0.jpg",
+    "embedding_index": 294
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "9361fd94bdd3.jpg",
+    "path": "warm_cozy_c06/gallery/9361fd94bdd3.jpg",
+    "embedding_index": 295
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "941f64069f56.jpg",
+    "path": "warm_cozy_c06/gallery/941f64069f56.jpg",
+    "embedding_index": 296
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "94cf71c657ed.jpg",
+    "path": "warm_cozy_c06/gallery/94cf71c657ed.jpg",
+    "embedding_index": 297
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "9d669043837b.jpg",
+    "path": "warm_cozy_c06/gallery/9d669043837b.jpg",
+    "embedding_index": 298
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "9e49700e1238.jpg",
+    "path": "warm_cozy_c06/gallery/9e49700e1238.jpg",
+    "embedding_index": 299
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "a082227f0537.jpg",
+    "path": "warm_cozy_c06/gallery/a082227f0537.jpg",
+    "embedding_index": 300
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "a7f34d1bd6a7.jpg",
+    "path": "warm_cozy_c06/gallery/a7f34d1bd6a7.jpg",
+    "embedding_index": 301
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "b1374d9b1cd0.jpg",
+    "path": "warm_cozy_c06/gallery/b1374d9b1cd0.jpg",
+    "embedding_index": 302
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "b1ce496e8a21.jpg",
+    "path": "warm_cozy_c06/gallery/b1ce496e8a21.jpg",
+    "embedding_index": 303
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "b9054a70825d.jpg",
+    "path": "warm_cozy_c06/gallery/b9054a70825d.jpg",
+    "embedding_index": 304
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "bba53611aad2.jpg",
+    "path": "warm_cozy_c06/gallery/bba53611aad2.jpg",
+    "embedding_index": 305
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "c7f8c6c07339.jpg",
+    "path": "warm_cozy_c06/gallery/c7f8c6c07339.jpg",
+    "embedding_index": 306
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "c8fd98c7c60d.jpg",
+    "path": "warm_cozy_c06/gallery/c8fd98c7c60d.jpg",
+    "embedding_index": 307
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "c92425ce6b8c.jpg",
+    "path": "warm_cozy_c06/gallery/c92425ce6b8c.jpg",
+    "embedding_index": 308
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "cc8ed4859ab5.jpg",
+    "path": "warm_cozy_c06/gallery/cc8ed4859ab5.jpg",
+    "embedding_index": 309
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "d5dc8c3b434e.jpg",
+    "path": "warm_cozy_c06/gallery/d5dc8c3b434e.jpg",
+    "embedding_index": 310
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "d669b23cf0b1.jpg",
+    "path": "warm_cozy_c06/gallery/d669b23cf0b1.jpg",
+    "embedding_index": 311
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "d7fc49a7a02b.jpg",
+    "path": "warm_cozy_c06/gallery/d7fc49a7a02b.jpg",
+    "embedding_index": 312
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "dc504a5234bc.jpg",
+    "path": "warm_cozy_c06/gallery/dc504a5234bc.jpg",
+    "embedding_index": 313
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "dd495a13e684.jpg",
+    "path": "warm_cozy_c06/gallery/dd495a13e684.jpg",
+    "embedding_index": 314
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "dfdfe454e74a.jpg",
+    "path": "warm_cozy_c06/gallery/dfdfe454e74a.jpg",
+    "embedding_index": 315
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "e5abe1cc7afb.jpeg",
+    "path": "warm_cozy_c06/gallery/e5abe1cc7afb.jpeg",
+    "embedding_index": 316
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "eb9ef30cbd3f.jpg",
+    "path": "warm_cozy_c06/gallery/eb9ef30cbd3f.jpg",
+    "embedding_index": 317
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "f1d16c12f488.jpg",
+    "path": "warm_cozy_c06/gallery/f1d16c12f488.jpg",
+    "embedding_index": 318
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "f23a51f78f87.jpg",
+    "path": "warm_cozy_c06/gallery/f23a51f78f87.jpg",
+    "embedding_index": 319
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "f6473b07dcfe.jpg",
+    "path": "warm_cozy_c06/gallery/f6473b07dcfe.jpg",
+    "embedding_index": 320
+  },
+  {
+    "id": "warm_cozy_c06",
+    "mood_id": "warm_cozy",
+    "mood_name_ko": "따뜻한 코지 원룸",
+    "filename": "f709898b78db.jpg",
+    "path": "warm_cozy_c06/gallery/f709898b78db.jpg",
+    "embedding_index": 321
+  },
+  {
+    "id": "bright_airy_c02",
+    "mood_id": "bright_airy",
+    "mood_name_ko": "밝은 에어리",
+    "filename": "cover.jpg",
+    "path": "bright_airy_c02/cover.jpg",
+    "embedding_index": 322
+  },
+  {
+    "id": "bright_airy_c02",
+    "mood_id": "bright_airy",
+    "mood_name_ko": "밝은 에어리",
+    "filename": "3ae427e3ffb9.jpeg",
+    "path": "bright_airy_c02/gallery/3ae427e3ffb9.jpeg",
+    "embedding_index": 323
+  },
+  {
+    "id": "bright_airy_c02",
+    "mood_id": "bright_airy",
+    "mood_name_ko": "밝은 에어리",
+    "filename": "df7a40fb3ec3.jpeg",
+    "path": "bright_airy_c02/gallery/df7a40fb3ec3.jpeg",
+    "embedding_index": 324
+  },
+  {
+    "id": "bright_airy_c02",
+    "mood_id": "bright_airy",
+    "mood_name_ko": "밝은 에어리",
+    "filename": "0e84d6dc1ee1.jpg",
+    "path": "bright_airy_c02/gallery/0e84d6dc1ee1.jpg",
+    "embedding_index": 325
+  },
+  {
+    "id": "bright_airy_c02",
+    "mood_id": "bright_airy",
+    "mood_name_ko": "밝은 에어리",
+    "filename": "0eef370db811.png",
+    "path": "bright_airy_c02/gallery/0eef370db811.png",
+    "embedding_index": 326
+  },
+  {
+    "id": "bright_airy_c02",
+    "mood_id": "bright_airy",
+    "mood_name_ko": "밝은 에어리",
+    "filename": "3510a574ed28.jpg",
+    "path": "bright_airy_c02/gallery/3510a574ed28.jpg",
+    "embedding_index": 327
+  },
+  {
+    "id": "bright_airy_c02",
+    "mood_id": "bright_airy",
+    "mood_name_ko": "밝은 에어리",
+    "filename": "439e044731bc.JPG",
+    "path": "bright_airy_c02/gallery/439e044731bc.JPG",
+    "embedding_index": 328
+  },
+  {
+    "id": "bright_airy_c02",
+    "mood_id": "bright_airy",
+    "mood_name_ko": "밝은 에어리",
+    "filename": "4cb9422b06f8.jpeg",
+    "path": "bright_airy_c02/gallery/4cb9422b06f8.jpeg",
+    "embedding_index": 329
+  },
+  {
+    "id": "bright_airy_c02",
+    "mood_id": "bright_airy",
+    "mood_name_ko": "밝은 에어리",
+    "filename": "5b35bdf04336.jpg",
+    "path": "bright_airy_c02/gallery/5b35bdf04336.jpg",
+    "embedding_index": 330
+  },
+  {
+    "id": "bright_airy_c02",
+    "mood_id": "bright_airy",
+    "mood_name_ko": "밝은 에어리",
+    "filename": "5c6c6589247a.JPG",
+    "path": "bright_airy_c02/gallery/5c6c6589247a.JPG",
+    "embedding_index": 331
+  },
+  {
+    "id": "bright_airy_c02",
+    "mood_id": "bright_airy",
+    "mood_name_ko": "밝은 에어리",
+    "filename": "5dcc1bc7da90.jpg",
+    "path": "bright_airy_c02/gallery/5dcc1bc7da90.jpg",
+    "embedding_index": 332
+  },
+  {
+    "id": "bright_airy_c02",
+    "mood_id": "bright_airy",
+    "mood_name_ko": "밝은 에어리",
+    "filename": "66dff7ac6acf.jpg",
+    "path": "bright_airy_c02/gallery/66dff7ac6acf.jpg",
+    "embedding_index": 333
+  },
+  {
+    "id": "bright_airy_c02",
+    "mood_id": "bright_airy",
+    "mood_name_ko": "밝은 에어리",
+    "filename": "71506a4c2149.jpg",
+    "path": "bright_airy_c02/gallery/71506a4c2149.jpg",
+    "embedding_index": 334
+  },
+  {
+    "id": "bright_airy_c02",
+    "mood_id": "bright_airy",
+    "mood_name_ko": "밝은 에어리",
+    "filename": "7a5df9d45492.png",
+    "path": "bright_airy_c02/gallery/7a5df9d45492.png",
+    "embedding_index": 335
+  },
+  {
+    "id": "bright_airy_c02",
+    "mood_id": "bright_airy",
+    "mood_name_ko": "밝은 에어리",
+    "filename": "7c16962a1ebf.jpg",
+    "path": "bright_airy_c02/gallery/7c16962a1ebf.jpg",
+    "embedding_index": 336
+  },
+  {
+    "id": "bright_airy_c02",
+    "mood_id": "bright_airy",
+    "mood_name_ko": "밝은 에어리",
+    "filename": "87b09ff61788.jpeg",
+    "path": "bright_airy_c02/gallery/87b09ff61788.jpeg",
+    "embedding_index": 337
+  },
+  {
+    "id": "bright_airy_c02",
+    "mood_id": "bright_airy",
+    "mood_name_ko": "밝은 에어리",
+    "filename": "8f69fb675409.jpg",
+    "path": "bright_airy_c02/gallery/8f69fb675409.jpg",
+    "embedding_index": 338
+  },
+  {
+    "id": "bright_airy_c02",
+    "mood_id": "bright_airy",
+    "mood_name_ko": "밝은 에어리",
+    "filename": "933e13603d4c.JPG",
+    "path": "bright_airy_c02/gallery/933e13603d4c.JPG",
+    "embedding_index": 339
+  },
+  {
+    "id": "bright_airy_c02",
+    "mood_id": "bright_airy",
+    "mood_name_ko": "밝은 에어리",
+    "filename": "947221f95a26.jpg",
+    "path": "bright_airy_c02/gallery/947221f95a26.jpg",
+    "embedding_index": 340
+  },
+  {
+    "id": "bright_airy_c02",
+    "mood_id": "bright_airy",
+    "mood_name_ko": "밝은 에어리",
+    "filename": "9a2178684da5.jpg",
+    "path": "bright_airy_c02/gallery/9a2178684da5.jpg",
+    "embedding_index": 341
+  },
+  {
+    "id": "bright_airy_c02",
+    "mood_id": "bright_airy",
+    "mood_name_ko": "밝은 에어리",
+    "filename": "c676deae7f87.jpg",
+    "path": "bright_airy_c02/gallery/c676deae7f87.jpg",
+    "embedding_index": 342
+  },
+  {
+    "id": "bright_airy_c02",
+    "mood_id": "bright_airy",
+    "mood_name_ko": "밝은 에어리",
+    "filename": "c6a03b0b8843.jpg",
+    "path": "bright_airy_c02/gallery/c6a03b0b8843.jpg",
+    "embedding_index": 343
+  },
+  {
+    "id": "luxury_modern_c07",
+    "mood_id": "luxury_modern",
+    "mood_name_ko": "럭셔리 모던",
+    "filename": "cover.jpg",
+    "path": "luxury_modern_c07/cover.jpg",
+    "embedding_index": 344
+  },
+  {
+    "id": "luxury_modern_c07",
+    "mood_id": "luxury_modern",
+    "mood_name_ko": "럭셔리 모던",
+    "filename": "978cfccd8b25.jpg",
+    "path": "luxury_modern_c07/gallery/978cfccd8b25.jpg",
+    "embedding_index": 345
+  },
+  {
+    "id": "luxury_modern_c07",
+    "mood_id": "luxury_modern",
+    "mood_name_ko": "럭셔리 모던",
+    "filename": "9d8248c2dc24.jpg",
+    "path": "luxury_modern_c07/gallery/9d8248c2dc24.jpg",
+    "embedding_index": 346
+  },
+  {
+    "id": "luxury_modern_c07",
+    "mood_id": "luxury_modern",
+    "mood_name_ko": "럭셔리 모던",
+    "filename": "01e05d6e5746.jpg",
+    "path": "luxury_modern_c07/gallery/01e05d6e5746.jpg",
+    "embedding_index": 347
+  },
+  {
+    "id": "luxury_modern_c07",
+    "mood_id": "luxury_modern",
+    "mood_name_ko": "럭셔리 모던",
+    "filename": "04dc0a188a88.jpeg",
+    "path": "luxury_modern_c07/gallery/04dc0a188a88.jpeg",
+    "embedding_index": 348
+  },
+  {
+    "id": "luxury_modern_c07",
+    "mood_id": "luxury_modern",
+    "mood_name_ko": "럭셔리 모던",
+    "filename": "21c17bce67ca.jpg",
+    "path": "luxury_modern_c07/gallery/21c17bce67ca.jpg",
+    "embedding_index": 349
+  },
+  {
+    "id": "luxury_modern_c07",
+    "mood_id": "luxury_modern",
+    "mood_name_ko": "럭셔리 모던",
+    "filename": "289715d36211.jpg",
+    "path": "luxury_modern_c07/gallery/289715d36211.jpg",
+    "embedding_index": 350
+  },
+  {
+    "id": "luxury_modern_c07",
+    "mood_id": "luxury_modern",
+    "mood_name_ko": "럭셔리 모던",
+    "filename": "5de8e39ee10e.jpg",
+    "path": "luxury_modern_c07/gallery/5de8e39ee10e.jpg",
+    "embedding_index": 351
+  },
+  {
+    "id": "luxury_modern_c07",
+    "mood_id": "luxury_modern",
+    "mood_name_ko": "럭셔리 모던",
+    "filename": "62d80d1ff7a8.JPG",
+    "path": "luxury_modern_c07/gallery/62d80d1ff7a8.JPG",
+    "embedding_index": 352
+  },
+  {
+    "id": "luxury_modern_c07",
+    "mood_id": "luxury_modern",
+    "mood_name_ko": "럭셔리 모던",
+    "filename": "8b2343f568a8.jpg",
+    "path": "luxury_modern_c07/gallery/8b2343f568a8.jpg",
+    "embedding_index": 353
+  },
+  {
+    "id": "luxury_modern_c07",
+    "mood_id": "luxury_modern",
+    "mood_name_ko": "럭셔리 모던",
+    "filename": "99948c4c6d33.jpg",
+    "path": "luxury_modern_c07/gallery/99948c4c6d33.jpg",
+    "embedding_index": 354
+  },
+  {
+    "id": "luxury_modern_c07",
+    "mood_id": "luxury_modern",
+    "mood_name_ko": "럭셔리 모던",
+    "filename": "b492b3fc6004.jpg",
+    "path": "luxury_modern_c07/gallery/b492b3fc6004.jpg",
+    "embedding_index": 355
+  },
+  {
+    "id": "luxury_modern_c07",
+    "mood_id": "luxury_modern",
+    "mood_name_ko": "럭셔리 모던",
+    "filename": "b8efe0602e57.jpg",
+    "path": "luxury_modern_c07/gallery/b8efe0602e57.jpg",
+    "embedding_index": 356
+  },
+  {
+    "id": "luxury_modern_c07",
+    "mood_id": "luxury_modern",
+    "mood_name_ko": "럭셔리 모던",
+    "filename": "ca4764be13be.jpg",
+    "path": "luxury_modern_c07/gallery/ca4764be13be.jpg",
+    "embedding_index": 357
+  },
+  {
+    "id": "luxury_modern_c07",
+    "mood_id": "luxury_modern",
+    "mood_name_ko": "럭셔리 모던",
+    "filename": "dd9ec134c17b.jpg",
+    "path": "luxury_modern_c07/gallery/dd9ec134c17b.jpg",
+    "embedding_index": 358
+  },
+  {
+    "id": "luxury_modern_c07",
+    "mood_id": "luxury_modern",
+    "mood_name_ko": "럭셔리 모던",
+    "filename": "f23ea9662624.jpeg",
+    "path": "luxury_modern_c07/gallery/f23ea9662624.jpeg",
+    "embedding_index": 359
+  },
+  {
+    "id": "luxury_modern_c07",
+    "mood_id": "luxury_modern",
+    "mood_name_ko": "럭셔리 모던",
+    "filename": "f75d9225a764.jpg",
+    "path": "luxury_modern_c07/gallery/f75d9225a764.jpg",
+    "embedding_index": 360
+  }
+]
